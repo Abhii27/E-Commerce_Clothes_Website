@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Men Pink Roundneck",
+    "image": "gallery2.jpg",
+    "price": "250",
+    "size": "S, M, L"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Ladies Only Black Top",
+    "image": "gallery3.jpg",
+    "price": "300",
+    "size": "M, L"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Children Roundneck",
+    "image": "no1.jpg",
+    "price": "200",
+    "size": "S, M, L, XL"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Blue Hoodie",
+    "image": "no4.jfif",
+    "price": "500",
+    "size": "L, XL"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Yellow Male Jacket",
+    "image": "no3.jpg",
+    "price": "350",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Jacket-1",
+    "image": "no4.jpg",
+    "price": "200",
+    "size": "M, L"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Jacket-2",
+    "image": "gallery5.jpg",
+    "price": "600",
+    "size": "M, L, XL"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Jacket-3",
+    "image": "gallery5.jfif",
+    "price": "1000",
+    "size": "L, XL"
+  }
+]
